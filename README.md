@@ -4,10 +4,12 @@
 - 📫 How to reach me: [Discord](https://discord.gg/aVrEvzxktz) / [@sowqa](https://discord.gg/KpJE5t6r)
 - 💻 I use [Webstorm](https://www.jetbrains.com/phpstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
 - 🏡 I live in London
-
-
+  
 ## 🌍 Programming languages:
 [![progLang](https://skillicons.dev/icons?i=js,html,css,py&theme=dark)](https://github.com/sowqa)
+
+## ⚙️ Software:
+[![tools](https://skillicons.dev/icons?i=git,vscode&theme=dark)](https://github.com/derpinou)
 
 <p align="center"> 
   Visitor count<br>
