@@ -4,6 +4,11 @@
 - 📫 How to reach me: [Discord](https://discord.gg/aVrEvzxktz) / [@sowqa](https://discord.gg/KpJE5t6r)
 - 💻 I use [Webstorm](https://www.jetbrains.com/phpstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
 - 🏡 I live in London
+
+  <div align="center">
+  <a href="https://discord.com/users/1133731107817390140" target="_blank">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1133731107817390140?bg=111111"> 
+</a>
   
 ## 🌍 Programming languages:
 [![progLang](https://skillicons.dev/icons?i=js,html,css,py&theme=dark)](https://github.com/sowqa)
